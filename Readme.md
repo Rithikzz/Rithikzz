@@ -1,5 +1,6 @@
 <h1 align="center">Hey 👋, I'm Rithik</h1>
 
+<h3 align="center">🚀 AI Systems Engineer | Computer Vision | IoT + Full-Stack</h3>
 
 <p align="center">
 Building real-world AI systems that combine software, hardware, and intelligence
@@ -8,7 +9,7 @@ Building real-world AI systems that combine software, hardware, and intelligence
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Systems+Engineer;Computer+Vision+%26+Edge+AI;Full-Stack+%2B+IoT+Builder;Building+Real-World+AI+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Systems+Engineer;Computer+Vision+%26+Edge+AI;Full-Stack+%2B+IoT+Builder;Building+Production-Ready+AI+Systems" />
 </p>
 
 ---
@@ -21,14 +22,14 @@ Building real-world AI systems that combine software, hardware, and intelligence
 
 ## 🧠 About Me
 
-I’m a B.Tech student in **Artificial Intelligence & Data Science** at Karunya Institute of Technology and Sciences.
+I’m an **AI & Data Science undergraduate** at Karunya Institute of Technology and Sciences, focused on building **production-oriented intelligent systems**.
 
-I specialize in building **end-to-end intelligent systems**, combining:
+I work across:
 
 * 🧠 Machine Learning & Computer Vision
-* 🌐 Full-stack Development
+* 🌐 Full-stack Engineering
 * 🔌 IoT & Embedded Systems
-* ⚡ Performance-focused engineering
+* ⚡ Performance-focused system design
 
 > I build systems that are meant to **run in real environments — not just notebooks.**
 
@@ -38,9 +39,9 @@ I specialize in building **end-to-end intelligent systems**, combining:
 
 * 👁️ Real-time **Computer Vision systems** (multimodal, GPU-accelerated)
 * 🧠 AI-powered applications with real-world deployment
-* 🔌 IoT-based smart systems (Arduino + sensors)
-* 🌐 Full-stack platforms with AI integration
-* ⚡ Low-level & performance systems (Rust exploration)
+* 🔌 IoT-based smart systems (Arduino + sensor integration)
+* 🌐 Full-stack platforms with AI pipelines
+* ⚡ Low-level & performance-oriented tools (Rust exploration)
 
 ---
 
@@ -49,15 +50,15 @@ I specialize in building **end-to-end intelligent systems**, combining:
 ### 👁️ Real-Time Multimodal Vision System
 
 * Processes live video at **30 FPS with GPU acceleration**
-* Object detection, segmentation & scene understanding
+* Combines detection, segmentation, and scene understanding
 * Tech: Python, OpenCV, PyTorch, FastAPI, WebRTC
 
 ---
 
 ### 🧾 AI Resume Builder
 
-* Generates **ATS-friendly resumes using AI**
-* Real-time preview + smart content suggestions
+* Generates **ATS-optimized resumes using AI**
+* Real-time preview + intelligent content suggestions
 * Tech: React, Tailwind CSS
 
 ---
@@ -72,22 +73,22 @@ I specialize in building **end-to-end intelligent systems**, combining:
 ### 🏥 Sahayak Ecosystem
 
 * Full-stack AI assistance platform
-* Includes kiosk + admin dashboard + backend
+* Includes kiosk interface, admin dashboard, and backend services
 
 ---
 
 ### ⚡ ROGKBD (Rust)
 
-* Low-level system project focused on performance & hardware control
+* Low-level system project focused on performance, control, and hardware interaction
 
 ---
 
 ## 🧪 Other Projects
 
-* 🍽️ Food Waste Management System
-* ❤️ Heart Disease Prediction System
-* 📊 Pulse (Data Analytics)
-* 🧑‍💼 Resume Builder (Web Tool)
+* 🍽️ Food Waste Management System — smart distribution platform
+* ❤️ Heart Disease Prediction — ML-based medical analysis
+* 📊 Pulse — data analytics system
+* 🧑‍💼 Resume Builder — web-based resume generator
 
 ---
 
@@ -133,7 +134,7 @@ Arduino • Sensors • Embedded Systems • Tinkercad
 
 * Systems > isolated models
 * Real-world deployment > theory
-* Performance & usability matter
+* Performance & efficiency matter
 * Build → Deploy → Iterate
 
 ---
@@ -167,7 +168,7 @@ Arduino • Sensors • Embedded Systems • Tinkercad
 
 ## ⚡ Final Note
 
-I focus on building **intelligent systems that work beyond demos** — combining AI, software, and hardware into real-world solutions.
+I focus on building **intelligent systems that move beyond prototypes** — combining AI, software, and hardware into solutions that are practical, scalable, and deployable.
 
 ---
 
