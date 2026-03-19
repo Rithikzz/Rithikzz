@@ -1,6 +1,5 @@
 <h1 align="center">Hey 👋, I'm Rithik</h1>
 
-<h3 align="center">🚀 AI Systems Engineer | Computer Vision | IoT + Full-Stack Developer</h3>
 
 <p align="center">
 Building real-world AI systems that combine software, hardware, and intelligence
