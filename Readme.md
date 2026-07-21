@@ -1,228 +1,167 @@
-````markdown
+<!--
+**Rithikzz/Rithikzz** is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
+-->
+
 <div align="center">
 
-# 👋 Hey, I'm Rithik
-
-### 🚀 AI Systems Engineer | Computer Vision | IoT + Full-Stack Developer
-
-*Building real-world AI systems that combine software, hardware, and intelligence.*
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Systems+Engineer;Computer+Vision+Developer;Full-Stack+%2B+IoT+Builder;Building+Production-Ready+AI+Systems;FastAPI+%7C+React+%7C+Python+%7C+OpenCV" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Rithikzz&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00FFF9&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Rithik;🤖+AI+Systems+Engineer;⚽+Computer+Vision+Developer;🌐+Full+Stack+%2B+IoT+Builder;🚀+Building+Production-Ready+AI+Systems" />
 
 </div>
 
 ---
 
-# 🧠 About Me
+## 🧠 About Me
 
-💡 AI & Data Science undergraduate at **Karunya Institute of Technology and Sciences**
+💡 Passionate about **Artificial Intelligence, Computer Vision, IoT, and Full-Stack Development**.
 
-🤖 Passionate about **Computer Vision, Artificial Intelligence, Edge AI, IoT, and Full-Stack Development**
+🧠 Building intelligent systems that combine **AI, software engineering, and embedded hardware**.
 
-⚙️ Building intelligent applications that combine software, AI, and embedded hardware.
+⚙️ Experienced with **FastAPI, React, Next.js, OpenCV, Python, MongoDB, and Docker**.
 
-🚀 Exploring scalable AI deployment, multimodal vision systems, and high-performance computing.
+🎯 Vision: **Build scalable AI systems that solve real-world problems beyond prototypes.**
 
-🎯 **Vision:** Build intelligent technologies that solve real-world problems through innovation and engineering.
-
-📫 **Email:** **sankarrithik5@gmail.com**
+📫 Reach me: **sankarrithik5@gmail.com**
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,fastapi,flask,tailwind,mongodb,mysql,docker,git,github,aws,linux,opencv,arduino,vscode&theme=dark"/>
-
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,fastapi,flask,tailwind,mongodb,mysql,docker,git,github,aws,linux,opencv,arduino,vscode&theme=dark"/>
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+## ⚡ Engineering Dashboard
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rithikzz&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rithikzz&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rithikzz&theme=tokyonight" width="95%" />
+</p>
 
 ---
 
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rithikzz&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rithikzz&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🧭 My Tech Universe
+## 🧭 My Tech Universe
 
 ```mermaid
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#ffffff","edgeLabelBackground":"#222","secondaryColor":"#9D4EDD","tertiaryColor":"#00FFF9","fontFamily":"monospace"}}}%%
+
 mindmap
-  root((🚀 Rithik))
+  root((🚀 Rithik's Tech Galaxy))
     Artificial Intelligence
       Machine Learning
       Computer Vision
       Deep Learning
       Edge AI
-    Full Stack
+    Backend
+      FastAPI
+      Flask
+      Node.js
+    Frontend
       React
       Next.js
-      FastAPI
-      Node.js
+      TailwindCSS
     IoT
       Arduino
-      Sensors
       Embedded Systems
-    Databases
+      Sensors
+    Database
       MongoDB
       MySQL
-    Tools
+      SQLite
+    DevOps
       Docker
       AWS
-      GitHub
-      Tableau
       Linux
+      Git
 ```
 
 ---
 
-# 🚀 Featured Projects
+## 🧩 Featured Projects
 
 | 🚀 Project | Description | Tech Stack |
 |------------|-------------|------------|
-| ⚽ **Football Video Analytics** | AI-powered football analytics with player tracking, ball detection, speed estimation & possession analysis | Python • OpenCV • YOLO • FastAPI |
-| 📄 **AI Contract Risk Analyzer** | AI assistant that extracts clauses, detects risks, and answers legal questions | FastAPI • Sentence Transformers • SQLite |
-| 💼 **AI Resume Builder** | ATS-friendly resume builder with AI content generation | React • Node.js • MongoDB |
-| 🏥 **Sahayak Ecosystem** | AI-powered healthcare ecosystem with kiosk interface and admin dashboard | React • FastAPI • PostgreSQL |
-| 🛰️ **AstroTrack** | Satellite and celestial object tracking platform with orbital visualization | Python • APIs • Matplotlib |
-| 🦀 **ROGKBD** | Rust-based hardware utility for ASUS ROG keyboard customization | Rust • Linux |
+| **⚽ Football Video Analytics** | AI-powered football analytics with player tracking, speed estimation & possession analysis | Python • OpenCV • YOLO • FastAPI |
+| **📄 AI Contract Risk Analyzer** | Intelligent legal document analysis with semantic search and AI Q&A | FastAPI • Sentence Transformers • SQLite |
+| **💼 AI Resume Builder** | AI-powered ATS resume builder with intelligent suggestions | React • Node.js • MongoDB |
+| **🏥 Sahayak Ecosystem** | Smart healthcare platform with kiosk interface and admin dashboard | React • FastAPI • PostgreSQL |
+| **🛰️ AstroTrack** | Satellite and celestial object tracking platform | Python • APIs • Matplotlib |
+| **🦀 ROGKBD** | Rust-based hardware utility for ASUS ROG keyboards | Rust • Linux |
 
 ---
 
-# 🧪 Other Projects
-
-- 🍽️ Food Waste Management Platform
-- ❤️ Heart Disease Prediction System
-- 📊 Pulse Analytics Dashboard
-- 🎓 Smart Hall & Classroom Booking System
-- 🤖 AI Chat Applications
-- 🌐 Portfolio & Resume Platform
-
----
-
-# 🏆 Achievements
+## 🏆 Achievements
 
 ✨ Full Stack Developer Intern – **Fludigo Pvt. Ltd.**
 
-✨ Frontend Developer – **dot.dev Club, Karunya University**
+🚀 Frontend Developer – **dot.dev Club, Karunya University**
 
-✨ Built multiple production-ready AI applications using FastAPI & React
+🤖 Built multiple production-ready AI applications using **FastAPI & React**
 
-✨ Developed Computer Vision systems for sports analytics
+⚽ Developed **Computer Vision systems** for sports analytics
 
-✨ Experience with AI deployment on Render & Vercel
+☁️ Deployed applications on **Render, Vercel, and cloud platforms**
 
-✨ Passionate about Open Source & Continuous Learning
-
----
-
-# 🚀 Currently Working On
-
-⚽ AI-powered Football Video Analytics
-
-👕 Cherub — AI Fashion-Tech Platform
-
-🤖 Local LLM & Edge AI Systems
-
-📷 Advanced Computer Vision Applications
-
-🦀 Learning Rust for Systems Programming
+📚 Passionate about Open Source, AI, and System Design
 
 ---
 
-# 💭 Engineering Philosophy
+## 🚀 Currently Building
 
-> **Build systems that solve real problems—not just demos.**
-
-- ⚡ Performance over complexity
-- 🌍 Real-world deployment over experimentation
-- 🧠 Systems thinking over isolated models
-- 🚀 Learn. Build. Deploy. Improve.
-
----
-
-# 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rithikzz&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
-
-</div>
+- ⚽ Football Video Analytics Platform
+- 👕 Cherub – AI Fashion-Tech Platform
+- 🤖 Local LLM & Edge AI Systems
+- 📷 Advanced Computer Vision Applications
+- 🦀 Exploring Rust for Systems Programming
 
 ---
 
-# 🌐 Connect With Me
+## 📈 GitHub Activity
 
 <p align="center">
 
-<a href="https://rithiks.tech">
-<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rithikzz&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rithikzz&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:sankarrithik5@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rithik-s">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Rithikzz">
 <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/rithik-s">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:sankarrithik5@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://rithiks.tech">
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-> *(Enable this later using GitHub Actions.)*
+  <i>“Build intelligent systems that bridge AI, software, and the physical world.”</i>
 
-```markdown
-![Snake animation](https://github.com/Rithikzz/Rithikzz/blob/output/github-contribution-grid-snake-dark.svg)
-```
+  <br><br>
 
----
+  ⭐ If you like my work, consider starring my repositories!
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-### 💡 *"Building intelligent systems that bridge AI, software, and the physical world."*
-
-⭐ **If you like my work, consider starring my repositories!**
-
-</div>
+</p>
 ````
