@@ -92,7 +92,7 @@ mindmap
 
 ## 🏆 Achievements
 
-✨ Full Stack Developer Intern – **Fludigo Pvt. Ltd.**
+✨ Full Stack Developer Intern – **ELEVANCE SKILL.**
 
 🚀 Frontend Developer – **dot.dev Club, Karunya University**
 
